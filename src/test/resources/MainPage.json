@@ -1,0 +1,19 @@
+[
+  {
+    "key": "Allow_Btn",
+    "androidValue": "com.android.packageinstaller:id/permission_allow_button",
+    "androidType": "id"
+  },
+
+  {
+    "key": "NoThanks_Btn",
+    "androidValue": "android:id/button2",
+    "androidType": "id"
+  },
+
+  {
+    "key": "AcceptCookies_Btn",
+    "androidValue": "com.turkishairlines.mobile:id/frPrivacy_btnAccept",
+    "androidType": "id"
+  }
+]
