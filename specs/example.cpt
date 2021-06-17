@@ -1,0 +1,76 @@
+
+# Click the Allow button
+* Wait "2" seconds
+* click allow
+
+# Click the No thanks button
+* Wait "2" seconds
+* click no thanks
+
+# Click the Accept cookies button
+* Wait "2" seconds
+* click on accept cookies
+
+# Click the Book a flight button
+* Wait "5" seconds
+* click on book a flight
+
+# Click on One Way Element
+* Wait "2" seconds
+* click one way
+
+# Click on Form SJC Element
+* Wait "2" seconds
+* click from SJC
+
+# Search for flight departure in the Search Bar and click on the search result
+* Wait "2" seconds
+* search for flight departure in the search bar and click on the search result
+
+# Click To Select
+* Wait "2" seconds
+* click to Select
+
+# Search for the destination in the Search Bar and click on the search result
+* Wait "2" seconds
+* search for the destination in the search bar and click on the search result
+
+# Click on Departure Date field
+* Wait "5" seconds
+* click on the departure Date field
+
+# The date information is selected 2 days after the current date
+* Wait "2" seconds
+* select date information 2 days after today's date
+
+# Click the Done button
+* Wait "5" seconds
+* click the done button after the date selection
+
+# Adult knowledge is selected as 2
+* Wait "2" seconds
+* increase adult knowledge by 2
+
+# Click on search flight button
+* Wait "2" seconds
+* click on search flight button
+
+# Check that flights are listed
+* Wait "5" seconds
+* check flights are listed
+
+# Any time is selected for the flight
+* Wait "2" seconds
+* choose any time for flight
+
+# Economy flight is selected
+* Wait "2" seconds
+* choose economy flight
+
+# Click the Continue button
+* Wait "2" seconds
+* click the continue button
+
+
+
+

@@ -1,17 +1,26 @@
 Specification Heading
 =====================
 
-Booking
+Go to THY MainPage And Booking
 ---------------------
-* allow a tıkla
-* no thanks a tıkla
-* accept cookies e tıkla
-* book a flight a tıkla
-* one way a tıkla
-* from SJC ye tıkla
-* search bar da uçak kalkışı için arama yap ve arama sonucuna tıkla
-* to Select e tıkla
-* search bar da gidilecek yer için arama yap ve arama sonucuna tıkla
+* Click the Allow button
+* Click the No thanks button
+* Click the Accept cookies button
+* Click the Book a flight button
+* Click on One Way Element
+* Click on Form SJC Element
+* Search for flight departure in the Search Bar and click on the search result
+* Click To Select
+* Search for the destination in the Search Bar and click on the search result
+* Click on Departure Date field
+* The date information is selected 2 days after the current date
+* Click the Done button
+* Adult knowledge is selected as 2
+* Click on search flight button
+* Check that flights are listed
+* Any time is selected for the flight
+* Economy flight is selected
+* Click the Continue button
 
 
 
